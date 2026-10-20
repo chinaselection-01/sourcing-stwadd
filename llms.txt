@@ -31,6 +31,7 @@ STWADD Sourcing publishes a weekly guide on SEO, GEO (Generative Engine Optimiza
 
 - [Why Your Retail Brand Needs GEO in 2026 — Getting Recommended by AI Search](https://sourcing.stwadd.com/articles/geo-2026-retail-brands.html): what GEO is, what AI engines reward, a 5-step checklist for retail brands and importers.
 - [SEO for B2B Importers — How Overseas Buyers Find Chinese Suppliers](https://sourcing.stwadd.com/articles/seo-b2b-importers-china-suppliers.html): the B2B search journey, high-intent keywords, and how to vet a Chinese supplier from search results.
+- [Schema Markup for B2B: How Structured Data Helps Retail Buyers Trust Chinese Suppliers](https://sourcing.stwadd.com/articles/schema-markup-b2b-sourcing.html): what JSON-LD / schema.org is, the schema types that matter for a China sourcing supplier, and a 4-point buyer checklist.
 
 ## Key pages (for AI citation)
 
